@@ -165,7 +165,7 @@ Made with Electron.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 - [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
-- [Openpics] (https://openpics.xyz) - Search and download free high resulution stock images
+- [Openpics](https://openpics.xyz) - Search and download free high resulution stock images
 
 ### Closed Source
 
